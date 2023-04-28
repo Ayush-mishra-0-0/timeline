@@ -1,0 +1,115 @@
+{
+	"title": {
+		"media": {
+			"url": "artificial_intelligence_benefits_risk.jpg",
+			"caption": "Evolution of AI.",
+			"credit": "ai.com/<a href='https://www.google.com/url?sa=i&url=https%3A%2F%2Ffutureoflife.org%2Fai%2Fbenefits-risks-of-artificial-intelligence%2F&psig=AOvVaw2BkOkRFzwAdv7zxhorMRmu&ust=1682772767491000&source=images&cd=vfe&ved=2ahUKEwj4xs-Zz8z-AhU2QWwGHQKjD50QjB16BAgAEAg'>tm_10001</a>"
+		},
+		"text": {
+			"headline": "1 phase of AI <br/>1956 - 1974: The golden years",
+			"text": "<p>From the 1950s through the mid '70s, optimism ran high in the hope that AI could solve many problems. In 1967, Marvin Minsky stated confidently that 'Within a generation ... the problem of creating 'artificial intelligence' will substantially be solved.'</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "eliza.png",
+				"caption": "A version of Eliza, a chatbot",
+				"credit": "<a href=https://github.com/Ayush-mishra-0-0/ML-For-Beginners/blob/main/1-Introduction/2-history-of-ML/README.md>Unidisc Music</a>"
+			},
+			"start_date": {
+				"year": "1966"
+			},
+			"text": {
+				"headline": "Grandma of chatgpt",
+				"text": "Eliza, an early 'chatterbot', could converse with people and act as a primitive 'therapist'. You'll learn more about Eliza in the NLP lessons."
+			}
+		},
+		{
+			"media": {
+				"url": "shakey.jpg",
+				"caption": "Shakey in 1972",
+				"credit": "Shakey the robot:<a href='https://github.com/Ayush-mishra-0-0/ML-For-Beginners/blob/main/1-Introduction/2-history-of-ML/README.md'> the profile </a>"
+			},
+			"start_date": {
+				"year": "1972"
+			},
+			"text": {
+				"headline": "First intelligent machine",
+				"text": "<p>Shakey the robot, who could maneuver and decide how to perform tasks 'intelligently'.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "block.jpeg",
+				"caption": "Click the caption to go for the video: Blocks world with SHRDLU",
+				"credit": "youtube <a href='https://youtu.be/QAJz4YKUwqw'>Video </a>"
+			},
+			"start_date": {
+				"year": "1970"
+			},
+			"text": {
+				"headline": "Blocks world",
+				"text": "'Blocks world' was an example of a micro-world where blocks could be stacked and sorted, and experiments in teaching machines to make decisions could be tested. Advances built with libraries such as SHRDLU helped propel language processing forward."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.youtube.com/watch?v=056v4OxKwlI&pp=ygUNaGlzdG9yeSBvZiBhaQ%3D%3D",
+				"caption": "history",
+				"credit": "youtube"
+			},
+			"start_date": {
+				"year": "1974"
+			},
+			"text": {
+				"headline": "The Early Years",
+				"text": "A good video to know about the excitement and complexities to build Ai in that era."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1977"
+			},
+			"text": {
+				"headline": "1974 - 1980: 'AI Winter'",
+				"text": "<p>By the mid 1970s, it had become apparent that the complexity of making 'intelligent machines' had been understated and that its promise, given the available compute power, had been overblown. Funding dried up and confidence in the field slowed. </p>"
+			}
+		},
+		{
+			"media": {
+				"url": "rise.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "2010"
+			},
+			"text": {
+				"headline": "A Rocky Comeback",
+				"text": "<p>Today machine learning and AI touch almost every part of our lives. This era calls for careful understanding of the risks and potentials effects of these algorithms on human lives. As Microsoft's Brad Smith has stated, Information technology raises issues that go to the heart of fundamental human-rights protections like privacy and freedom of expression. These issues heighten responsibility for tech companies that create these products. In our view, they also call for thoughtful government regulation and for the development of norms around acceptable uses .</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/mTtDfKgLm54",
+				"caption": "Yann LeCun discusses the history of deep learning in this lecture",
+				"credit": "youtube"
+			},
+			"start_date": {
+				"year": "2021"
+			},
+			"text": {
+				"headline": "A Bright Future ",
+				"text": "<p>It remains to be seen what the future holds, but it is important to understand these computer systems and the software and algorithms that they run. We hope that this curriculum will help you to gain a better understanding so that you can decide for yourself.</p>"
+			}
+		}
+		
+		
+	]
+}
